@@ -1,0 +1,1 @@
+The Market psychology indicator uses the twitter API to collect the tweets that include the key terms. In this instance, it is OPEC and Baker Hughes rig count. Both are fundamental to pricing oil futures. Taking these tweets, I ran a VADER sentiment Analyzer to determine if those terms were regarded negatively or positively based on the word choice in the tweets. 
